@@ -1,2 +1,2 @@
-# wpu-git-test
+# belajar git
 latihan
